@@ -1,5 +1,5 @@
 # R-toulouse-pointblank
-Presentation a R-toulouse du 19 octobre 2022
+Présentation à R-toulouse du 19 octobre 2022
 
 <details><summary>Français</summary>
 <p>
